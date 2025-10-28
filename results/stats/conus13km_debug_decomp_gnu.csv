@@ -1,0 +1,4 @@
+test_name,machine,compiler,core_mean,core_std,core_min,core_max,mem_mean,mem_std,mem_min,mem_max,n_hashes
+conus13km_debug_decomp_gnu,hera,gnu,678.84,10.68753167636633,661,694,1050.72,6.760917097554165,1038,1071,25
+conus13km_debug_decomp_gnu,hercules,gnu,554.92,53.8624173241417,526,732,338984.16,502766.81018487416,1054,1058676,25
+conus13km_debug_decomp_gnu,ursa,gnu,582.0769230769231,313.2749492796286,411,1417,36563.53846153846,181720.9911947942,914,927524,26

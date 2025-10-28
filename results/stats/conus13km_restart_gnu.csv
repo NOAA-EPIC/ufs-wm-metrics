@@ -1,0 +1,4 @@
+test_name,machine,compiler,core_mean,core_std,core_min,core_max,mem_mean,mem_std,mem_min,mem_max,n_hashes
+conus13km_restart_gnu,hera,gnu,160.64,3.9251326941476306,155,169,729.0,6.480740698407854,717,738,25
+conus13km_restart_gnu,hercules,gnu,130.72,8.512343978012169,123,164,244660.2,362873.52565483015,759,768320,25
+conus13km_restart_gnu,ursa,gnu,265.11538461538464,265.3533986099408,96,817,22981.0,114203.1479947904,578,582908,26
