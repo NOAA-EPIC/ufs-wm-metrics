@@ -1,0 +1,3 @@
+# Prerequisites
+*.last_upstream_hash
+__pycache__
